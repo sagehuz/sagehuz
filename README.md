@@ -1,37 +1,18 @@
-# Hi there, I'm SageHuz 👋
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khiemtrung)
 
-I am an independent software developer, technical author, and digital creator specializing in high-performance Android architectures, Wear OS ecosystems, and retro user interface design. 
+I am an independent software developer and author focused on Android development, Wear OS, and retro UI design.
 
----
+**Featured Projects**
+* **[Classic PC Launcher](https://sagehuz.com/android_launchers/classic_pc_launcher/):** An Android launcher recreating the nostalgic Windows 95/98 desktop experience, featuring a lightweight 90s-style file manager.
 
-## 🚀 Strategic Software Projects
+**Published Books**
+* **[Amazon Author Page](https://www.amazon.com/stores/author/B0FXVT6JMV/about):** A collection of my writings and guides on mobile technology.
+* **[*Smartwatch Wars*](https://www.amazon.com/Smartwatch-Wars-Became-Frontier-Health-ebook/dp/B0FXZC1XKN):** An overview of the evolution and growth of the smartwatch ecosystem.
 
-### [Classic PC Launcher](https://sagehuz.com/android_launchers/classic_pc_launcher/)
-A high-performance, lightweight Android launcher that recreates the authentic retro Windows 95/98 desktop computer experience on modern smartphones.
-- **Core Technology:** Optimized layout architectures, customized system integration, and responsive freeform multitasking windows.
-- **Built-in Systems:** Features an authentic retro file manager supporting complete storage operations wrapped in a classic 90s computer aesthetic.
-- **Documentation & Download:** [Official Landing Page & Guide](https://sagehuz.com/android_launchers/classic_pc_launcher/)
+**Skills & Expertise**
+* **Mobile Development:** Android app development, Wear OS watch face design, and App Store Optimization (ASO).
+* **Design & Performance:** Retro interfaces, vintage visual styles, and frontend/WebView optimization.
+* **Workflows:** Leveraging modern AI tools to streamline software development.
 
----
-
-## 📚 Published Technical Books & Literature
-
-I author comprehensive deep-dives into mobile optimization, wearable ecosystems, and digital evolution. You can discover my official author profile and works here:
-- **Amazon Author Hub:** [SageHuz on Amazon](https://www.amazon.com/stores/author/B0FXVT6JMV/about)
-- **Featured Book:** [*Smartwatch Wars: How the Wrist Became the Next Frontier for Tech, Health, and Sovereignty*](https://www.amazon.com/Smartwatch-Wars-Became-Frontier-Health-ebook/dp/B0FXZC1XKN)
-
----
-
-## 🛠️ Core Technical Expertise
-
-- **Mobile Ecosystems:** Advanced App Store Optimization (ASO), Wear OS watch face design & distribution, Android System Customization.
-- **Design Philosophies:** Retro UI frameworks, 8-bit / 16-bit visual asset generation, and lightweight frontend/WebView performance optimization.
-- **AI-Agent Architecture:** Active implementation of Retrieval-Augmented Optimization (RAO) and modern prompt engineering for software development pipelines.
-
----
-
-## 🌐 Connect with Me
-
-- **Official Website:** [sagehuz.com](https://sagehuz.com)
-
-*Feel free to explore my repositories or check out the official documentation of my launch environments above!*
+**Connect**
+* Website: [sagehuz.com](https://sagehuz.com)
