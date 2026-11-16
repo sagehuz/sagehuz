@@ -3,7 +3,7 @@
 I am an independent software developer and author focused on Android development, Wear OS, and retro UI design.
 
 **Featured Projects**
-* **[Classic PC Launcher](https://sagehuz.com/android_launchers/classic_pc_launcher/):** An Android launcher recreating the nostalgic Windows 95/98 desktop experience, featuring a lightweight 90s-style file manager.
+* **[Classic PC Launcher](https://sagehuz.vercel.app/android_launchers/classic_pc_launcher/):** An Android launcher recreating the nostalgic Windows 95/98 desktop experience, featuring a lightweight 90s-style file manager.
 
 **Published Books**
 * **[Amazon Author Page](https://www.amazon.com/stores/author/B0FXVT6JMV/about):** A collection of my writings and guides on mobile technology.
@@ -15,4 +15,4 @@ I am an independent software developer and author focused on Android development
 * **Workflows:** Leveraging modern AI tools to streamline software development.
 
 **Connect**
-* Website: [sagehuz.com](https://sagehuz.com)
+* Website: [sagehuz.com](https://sagehuz.vercel.app)
